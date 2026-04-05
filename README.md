@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Omar, a software engineer.<br>👀 I’m interested in full stack development and AI.<br>🌱 I’m currently learning MERN and a little bit of python every now and then.<br>📫 How to reach me...feel free to leave me a message, here is my email: omarabuelkassem@gmail.com <br> ![](https://komarev.com/ghpvc/?username=OmarAbuelkassem
+👋 Hi, I’m Omar, a software engineer.<br>👀 I’m interested in full stack development and AI.<br>🌱 I’m currently learning MERN and a little bit of python every now and then.<br>📫 How to reach me...feel free to leave me a message, here is my email: omarabuelkassem@gmail.com <br><br><br><br> ![](https://komarev.com/ghpvc/?username=OmarAbuelkassem
 )
 
 
